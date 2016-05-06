@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[I'm a man out of my time]]></title>
+        <description><![CDATA[I'm a man out of my time]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 06 May 2016 13:01:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blog]]></title>
+            <description><![CDATA[<article><h1>Blog</h1><p>"Tous les problèmes de l'humanité découlent de l'incapacité de l'homme à rester tranquillement assis seul dans une pièce."- Blaise Pascal - La méditation est un outil puissant pour apprendre à se détacher de nos pensées, les observer dans leurs schémas et ainsi les changer au besoin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff20a6297dadc0a25fe2c2b18c6ff7e0ce43cfcb.png"></article>]]></description>
+            <link>http://www.kariszma.com/blog</link>
+            <guid isPermaLink="false">e6b58b57-cc71-4c2d-9d2d-4a24797e3e62</guid>
+            <pubDate>Fri, 06 May 2016 13:01:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
